@@ -564,6 +564,11 @@ h6 {
   #hero h2 {
     font-size: 30px;
   }
+  #iso {
+    background-size:150px;
+    background-repeat: no-repeat;
+    Background-position: center center
+  }
 }
 
 @media (min-width: 1024px) {
@@ -572,11 +577,21 @@ h6 {
   #hero .carousel-control-next {
     width: 5%;
   }
+  #iso {
+    background-size:150px;
+    background-repeat: no-repeat;
+    Background-position: center center
+  }
 }
 
 @media (max-height: 500px) {
   #hero {
     height: 120vh;
+  }
+  #iso {
+    background-size:150px;
+    background-repeat: no-repeat;
+    Background-position: center center
   }
 }
 
