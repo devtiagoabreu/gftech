@@ -69,14 +69,14 @@ h6 {
   #iso {
     padding-left: 0;
     padding-right: 0;
-    background-size:150px;
+    background-size:300px;
   }
 }
 
 @media (max-width: 992px) {
   #iso {
     padding-top: 30px;
-    background-size:150px;
+    background-size:300px;
   }
 
 }
