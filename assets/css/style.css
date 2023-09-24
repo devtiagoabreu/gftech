@@ -70,7 +70,7 @@ h6 {
     padding-left: 0;
     padding-right: 0;
     background-size: 100px;
-    Background-position: center center
+    Background-position: center bottom
   }
 }
 
@@ -78,7 +78,7 @@ h6 {
   #iso {
     padding-top: 10px;
     background-size: 100px;
-    Background-position: center center
+    Background-position: center bottom
   }
 
 }
