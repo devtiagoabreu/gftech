@@ -67,13 +67,15 @@ h6 {
 @media (max-width: 1024px) {
 
   #iso {
-    background-size: 50% 50%;
+    padding: 8px 20px;
+    background-size: 100px;
   }
 }
 
 @media (max-width: 992px) {
   #iso {
-    background-size: 30% 30%;
+    padding: 8px 20px;
+    background-size: 100px;
   }
 
 }
