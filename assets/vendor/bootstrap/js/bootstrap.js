@@ -1148,7 +1148,7 @@
     [ARROW_RIGHT_KEY$1]: DIRECTION_LEFT
   };
   const Default$b = {
-    interval: 10000,
+    interval: 5000,
     keyboard: true,
     pause: 'hover',
     ride: false,
