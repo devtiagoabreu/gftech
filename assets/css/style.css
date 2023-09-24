@@ -56,7 +56,8 @@ h6 {
 }
 
 #iso {
-  background-size: 150px;
+  background-size:300px;
+  background-repeat: no-repeat;
 }
 
 /*--------------------------------------------------------------
