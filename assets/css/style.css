@@ -69,16 +69,16 @@ h6 {
   #iso {
     padding-left: 0;
     padding-right: 0;
-    background-size: 150px;
-    Background-position: bottom
+    background-size: 100px;
+    Background-position: center center
   }
 }
 
 @media (max-width: 992px) {
   #iso {
     padding-top: 10px;
-    background-size: 150px;
-    Background-position: bottom
+    background-size: 100px;
+    Background-position: center center
   }
 
 }
