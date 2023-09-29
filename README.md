@@ -18,7 +18,7 @@ Project developed during NLW Return - Trilha Impulse.💜
 
 ## 🧠 Agradecimento
 
-Gratidão ([GFertech](https://gefertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
+Gratidão ([GFertech](https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
 
 
 ## :memo: Licença
