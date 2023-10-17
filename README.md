@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Project developed during NLW Return - Trilha Impulse.💜
+Project published in Vercel.💜
 
 - [Projeto Publicado](https://gfertech.com.br)
 
@@ -18,7 +18,7 @@ Project developed during NLW Return - Trilha Impulse.💜
 
 ## 🧠 Agradecimento
 
-Gratidão ([GFertech](https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
+Gratidão ([GFertech])(https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
 
 
 ## :memo: Licença
