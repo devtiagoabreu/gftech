@@ -18,12 +18,12 @@ Project published in Vercel.💜
 
 ## 🧠 Agradecimento
 
-Gratidão [GFertech](https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
+Gratidão a [GFertech](https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença Multi Free para mais detalhes (https://bootstrapmade.com/multi-responsive-bootstrap-template/).
+Esse projeto está sob a licença [Multi Free](https://bootstrapmade.com/multi-responsive-bootstrap-template/)
 
 ---
 
