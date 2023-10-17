@@ -18,7 +18,7 @@ Project published in Vercel.💜
 
 ## 🧠 Agradecimento
 
-Gratidão ([GFertech])(https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
+Gratidão [GFertech](https://gfertech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
 
 
 ## :memo: Licença
