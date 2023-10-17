@@ -25,6 +25,10 @@ Gratidão a [GFertech](https://gfertech.com.br/) - A tecnologia está sempre em 
 
 Esse projeto está sob a licença [Multi Free](https://bootstrapmade.com/multi-responsive-bootstrap-template/)
 
+## 📅 Última atualização
+
+17/10/2023 - 00h39min
+
 ---
 
 Codado com muita alegria e filhas no colo ♥ by [Tiago de Abreu](http://atriostech.com.br/tiago/) :wave: 
