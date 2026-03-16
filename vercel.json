@@ -1,9 +1,21 @@
 {
+  "buildCommand": null,
+  "devCommand": null,
+  "installCommand": null,
   "builds": [
     {
       "src": "**/*.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "assets/**/*",
+      "use": "@vercel/static"
     }
   ],
-  "version": 2
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
 }
